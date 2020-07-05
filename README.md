@@ -33,19 +33,19 @@
 
 
 
+
+
 **<u>Storage:</u>**
 
 - key benefit of OCI Virtual Machine DB Systems --> Support for RACDB systems/Fast provisioning/ Scaleup Block Storage Anytime. 
-
 - Immediate retrieval storage --> Object storage (Standard)
-
 - Lowest pricing for storage --> OCI Archive Storage
-
 - Provide a shared file system across multiple compute instance --> File Storage
-
 - Migrate old database backups from on-premises data centre to OCI --> Archive Storage
 
-  
+
+
+
 
 **<u>Database:</u>**
 
@@ -67,6 +67,8 @@
 
 
 
+
+
 **<u>Support & Maintenance:</u>**
 
 - Cannot be used with My Oracle Support(MOS) --> Solve an issue in Always Free resources in an OCI Free Trial Account.
@@ -85,7 +87,7 @@
 
 ------
 
-### Multiple - Choice Question - Answer
+### Multiple - Choice Question & Answer
 
 ------
 
