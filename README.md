@@ -1,4 +1,5 @@
-# Oracle-1Z0-1085
+# Oracle-1Z0-1085                                   <img src="D:\EDUCATION\Oracle Certification\1Z0-1067\logo2.JPG" style="zoom:50%;" />
+
 ## Comprehensive cheat sheet to pass Oracle 1Z0-1085 Exam
 
 ------
@@ -19,7 +20,7 @@
 
 <u>**Basic Concept:**</u>
 
-- Key benefit of using OCI --> committed performance with predictable pricing model
+- Key benefit of using OCI --> Committed performance with predictable pricing model
 - You manage in an IaaS Offering --> Operating System
 - Horizontal scaling --> Adding additional compute instance
 - Vertical Scaling --> Adding more CPU or memory to an existing server
@@ -144,3 +145,9 @@
 
 1. Always On Data Encryption for data at rest
 2. Key Management Service
+
+------
+
+**Contact Us:**
+
+[digitechcloud20@gmail.com]()
