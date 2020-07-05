@@ -1,4 +1,4 @@
-# Oracle-1Z0-1085                                   <img src="D:\EDUCATION\Oracle Certification\1Z0-1067\logo2.JPG" style="zoom:50%;" />
+# Oracle-1Z0-1085                                   <img src="images/logo2.JPG" alt="logo2.JPG" style="zoom:50%;" />
 
 ## Comprehensive cheat sheet to pass Oracle 1Z0-1085 Exam
 
