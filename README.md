@@ -8,7 +8,7 @@
 - Region : Each Availability Domain has three Fault Domains
 - Compute instance always get a private IP address.
 - Network bandwidth is proportional to the number of OCPUs in the Instance shape
-  Compartments can not be nested.
+- Compartments can not be nested.
 - You can launch either virtual machines or bare metal instances.
 
 ------
