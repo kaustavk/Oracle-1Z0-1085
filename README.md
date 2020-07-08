@@ -1,4 +1,4 @@
-# Oracle-1Z0-1085                                                                 <img src="images/logo2.JPG" alt="logo2.JPG" style="zoom:20%;" />
+# Oracle-1Z0-1085                                         <p>       </p>          <img src="images/logo2.JPG" alt="logo2.JPG" style="zoom:20%;" />
 
 ## Comprehensive cheat sheet to pass Oracle 1Z0-1085 Exam
 
@@ -145,6 +145,30 @@
 
 1. Always On Data Encryption for data at rest
 2. Key Management Service
+
+------
+
+**1Z0-1085:**
+https://www.udemy.com/course/1z0-1085-20-oraclecloudinfrastructurefoundationsassociate
+
+**1Z0-1067:**
+https://www.udemy.com/course/oracle-cloud-infrastructure-cloud-operations-associate/
+
+**1Z0-1072:**
+https://www.udemy.com/course/1z0-1072-oracle-cloud-infra-architect-associate/
+
+**1Z0-1084:**
+https://www.udemy.com/course/oracle-cloud-infra-developer-2020-associate-practice-test/
+
+**1Z0-931:**
+https://www.udemy.com/course/oracle-autonomous-database-cloud-specialist-1z0-931-practice-test/
+
+**1Z0-997:**
+https://www.udemy.com/course/1z0-997-oracle-cloud-infrastructure-architect-professional-k
+
+
+
+**Note:** For Active Coupon please contact us through below mail id 
 
 ------
 
