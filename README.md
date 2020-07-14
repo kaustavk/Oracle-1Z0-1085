@@ -76,7 +76,7 @@
 - NOT required to register and log support request in My Oracle Support --> Your Account Password
 - OCI resources can be used to group/categorize expenses -->  Tags and compartments
 - NOT a default feature of Cost Analysis --> Filter Cost by Application
-- Pricing method not supported by OCI --> Unlimited Credits Monthly Flex
+- Pricing method not supported by OCI --> Reserved Instance
 - SLA type NOT offered by OCI Compute service --> Application Plane
 - NOT available to you whenever OCI creates or resolves an incident --> Twitter Notification
 - Frequency of OCI Usage Report generation --> Daily
